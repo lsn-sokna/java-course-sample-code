@@ -1,0 +1,6 @@
+class HelloWordTest{
+	
+	public static void main(String args[]){
+		
+	}
+}

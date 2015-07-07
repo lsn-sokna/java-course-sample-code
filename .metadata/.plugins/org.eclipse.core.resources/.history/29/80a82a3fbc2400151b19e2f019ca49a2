@@ -1,0 +1,19 @@
+class HelloWordTest{
+	public static void main(String agrs[]){
+		
+		
+		System.out.println("Hello World!");
+		System.out.println("Second World!");
+		System.out.println("Third");
+		
+		int number = 123;
+		double score = 99.99;
+		float average = (float)58.00;
+		String myname = "Sokna Ly";
+		System.out.println(number);
+		System.out.println(score);
+		System.out.println(average);
+		System.out.println(myname);
+		
+	}
+}

@@ -1,0 +1,14 @@
+class HelloWordTest{
+	public static void main(String agrs[]){
+		
+		
+		System.out.println("Hello World!");
+		System.out.println("Second World!");
+		System.out.println("Third");
+		
+		int number = 123;
+		double score = 99.99;
+		
+		System.out.println(number);
+	}
+}

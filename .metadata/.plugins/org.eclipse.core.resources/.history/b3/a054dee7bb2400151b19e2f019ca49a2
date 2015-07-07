@@ -1,0 +1,13 @@
+class HelloWordTest{
+	public static void main(String agrs[]){
+		
+		
+		System.out.println("Hello World!");
+		System.out.println("Second World!");
+		System.out.println("Third");
+		
+		int number = 123;
+		float score = (float) 99.99;
+		
+	}
+}

@@ -1,0 +1,7 @@
+class HelloWordTest{
+	public static void main(String agrs[]){
+		System.out.println("Hello World!");
+		System.out.println("Second World!");
+		System.out.print("Third");
+	}
+}
